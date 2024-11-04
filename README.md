@@ -1,4 +1,4 @@
-# BeBeauty Products & Cosmetics Analysis Repository 💄
+# Beauty Products & Cosmetics Analysis Repository 💄
 
 Welcome to the Beauty Products & Cosmetics Analysis repository under EduTECH! This repository explores data on a wide variety of beauty products, offering insights into trends, customer preferences, and product characteristics across multiple brands.
 
